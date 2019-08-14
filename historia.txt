@@ -1,5 +1,6 @@
-Esta es la historia de Freddy Vega
+Esta es la historia de Renato Balcázar
 
-Freddy Vega tiene 32 años y nació en Colombia
+Renato tiene 19 años y nació en Ecuador.
+Actualmente Renato está siguiendo un curso de Platzi sobre Git y GitHub
 
-Mañana nos enfocaremos en su vida laboral
+Mañana nos enfocaremos en su vida laboral.
